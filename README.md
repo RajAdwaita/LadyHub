@@ -65,12 +65,6 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 <img src="./Screenshots/Screenshot 2022-05-29 091740.png" width="300">
 
 
-## Our Team
-- Sagarika Mondol
-- Sainik Khaddar
-- Adwaita Raj Modak
-- Anwesha Chakraborty
-
 
 
 ### More power to women!
