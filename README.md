@@ -58,11 +58,15 @@ git clone https://github.com/SanjeebNath382/sashakti.git
 
 ## Screenshots
 
-<img src="./Screenshots/Screenshot 2022-05-29 091437.png" width="800" height="400" align-items="center">
+<img src="./Screenshots/Screenshot 2022-05-29 091437.png" width="800" height="400">
+<img src="./Screenshots/img3.png" width="800" height="400">
+<!-- <img src="./Screenshots/Screenshot 2022-05-29 091437.png" width="800" height="400"> -->
 <img src="./Screenshots/Screenshot 2022-05-29 091651.png" width="800" height="400">
+<img src="./Screenshots/img1.png" width="800" height="400">
 <img src="./Screenshots/Screenshot 2022-05-29 091618.png" width="800" height="400">
 <img src="./Screenshots/Screenshot 2022-05-29 091549.png" width="800" height="400">
 <img src="./Screenshots/Screenshot 2022-05-29 091740.png" width="800" height="400">
+<img src="./Screenshots/img2.png" width="800" height="400">
 
 
 
