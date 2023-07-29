@@ -44,17 +44,26 @@ Our idea is to build a website which serves as a complete guide to a women's men
   - Xampp
   - Git
   - Github
-## Setup
 
-<!-- - Download & install [Xampp](https://www.apachefriends.org/download.html)
-- Download the Zip or clone the repository
-``` bash
-git clone https://github.com/SanjeebNath382/sashakti.git
-```
-- Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
-- Copy the project folder and paste it in the address mentioned above.
-- Launch any browser window and search localhost/sashakti.
-- Voila, explore and enjoy! -->
+
+## Inspiration 💡
+My idea is to build a website which serves as a complete guide to a women's mental and physical health and well-being. I aim to spread awareness about health which is often neglected among women.
+## What it does ⚙️
+ The website plans to constitute various features such as tracking menstruation cycles, a quick general healthcare check-up, mental health wellness and fitness blogs, a recreation or resources page, connect with doctors, and a forum where women can discuss and share experiences etc.
+## How we built it ⚒️
+For the front-end I used HTML, and CSS and for the backend, I used PHP and SQL. I made the database in MySql using PhpMyadmin and finally, hosted the website using 000webhost and used the MLH-provided GoDaddy registry domain. For the physical health checkup, I used ApiMedic API and for connecting with the Doctor using a live video conference, I used VideoWhisper.
+## Challenges we ran into ❌
+I had a major challenge in setting up the website properly for the physical health checkup section, wherein I had to use an API and make the front-end in such a way that all features could be implemented, but in the end, I figured everything out after hours of thinking, the errors I couldn't solve.
+## Accomplishments that we're proud of 😊
+How the final website turned out, I like how the site is as functional as I originally expected it to be. I am proud that I had fun in the process and I met other great hackers in the course of this hackathon, thanks to MLH for the opportunity.
+## What we learned 👨‍🔬
+Learned how to host a full-stack website using 000webhost, and also use a custom GoDaddy domain and host my website.
+## What's next for Lady Hub ⏭️
+Next up, I plan to launch a mobile app (iOS and android) for LadyHub). 
+Detect the current mood of the user through questions and create Spotify playlists or movie
+playlists.
+To install a safety bell icon in our application so that in case a woman gets molested, she can send her
+the exact location of the nearby Police Station.
 
 ## Screenshots
 
